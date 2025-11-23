@@ -1,0 +1,696 @@
+{
+    "files": [
+        {
+            "path": "NivelPro.exe",
+            "hash": "A047D83CAE334753036E158814693E12"
+        },
+        {
+            "path": "UnityCrashHandler64.exe",
+            "hash": "05DEBFE6E18D9BF68F6B70699B40BF73"
+        },
+        {
+            "path": "UnityPlayer.dll",
+            "hash": "1BE15FCE166FB1DF1A7DADCAD3CA71C3"
+        },
+        {
+            "path": "D3D12/D3D12Core.dll",
+            "hash": "7FC05C9A8366D19302DFD13D09D3EBAC"
+        },
+        {
+            "path": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+            "hash": "4E02ECD202D1FFB1AC2769AC6E864543"
+        },
+        {
+            "path": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+            "hash": "CEAEC79722673CB6E51C09EA83679FF2"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/browscap.ini",
+            "hash": "378BE809DF7D15AAC75A175693E25FBB"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/config",
+            "hash": "67611B783439B35ABFE05A97413BBA46"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+            "hash": "F7BE9F1841FF92F9D4040AED832E0C79"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+            "hash": "5B791B8493C4E9A55D8C5EE522CE1CEF"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+            "hash": "22C818A23169E12BD3C8587B6394C731"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/2.0/web.config",
+            "hash": "DC6DD6D8D1FC74E76C84B0B38DC6B1E3"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+            "hash": "0D831C1264B5B32A39FA347DE368FE48"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+            "hash": "F7BE9F1841FF92F9D4040AED832E0C79"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+            "hash": "32BF879734966EF6659D914A217691E0"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+            "hash": "BA17ADE8A8E3EE221377534C8136F617"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.0/web.config",
+            "hash": "D081581E16B06480A5AAEF8CDFB305AB"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+            "hash": "0D831C1264B5B32A39FA347DE368FE48"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+            "hash": "F7BE9F1841FF92F9D4040AED832E0C79"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+            "hash": "25FF1EC49E3AC9285BD943CF036BD813"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+            "hash": "BA17ADE8A8E3EE221377534C8136F617"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.5/web.config",
+            "hash": "5075AF18FE1D2B5F9555D5CC68029814"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+            "hash": "0D831C1264B5B32A39FA347DE368FE48"
+        },
+        {
+            "path": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+            "hash": "F34B330F20DCE1BDCCE9058FCA287099"
+        },
+        {
+            "path": "NivelPro_Data/app.info",
+            "hash": "4666C66454ECA40AE4A2DB89F296FBDA"
+        },
+        {
+            "path": "NivelPro_Data/boot.config",
+            "hash": "48F1496F10C724A84D2492D5E31A210D"
+        },
+        {
+            "path": "NivelPro_Data/globalgamemanagers",
+            "hash": "C569D74474ACDF966BC0E77988C56E2E"
+        },
+        {
+            "path": "NivelPro_Data/globalgamemanagers.assets",
+            "hash": "316F0CBE17BAAEF21F5682C7B37C33A5"
+        },
+        {
+            "path": "NivelPro_Data/globalgamemanagers.assets.resS",
+            "hash": "7423E95B309C209A70C3B8112F61D473"
+        },
+        {
+            "path": "NivelPro_Data/level0",
+            "hash": "96C356238C15F78D91D4183A023D2A98"
+        },
+        {
+            "path": "NivelPro_Data/resources.assets",
+            "hash": "159C1D501CDB4CA76C7CC0EC3452970F"
+        },
+        {
+            "path": "NivelPro_Data/resources.assets.resS",
+            "hash": "ABF9B47D262539E20BF60AE950F75D41"
+        },
+        {
+            "path": "NivelPro_Data/RuntimeInitializeOnLoads.json",
+            "hash": "3898DDA08A24C44FAFB362BE698D5FA8"
+        },
+        {
+            "path": "NivelPro_Data/ScriptingAssemblies.json",
+            "hash": "4C65342E0785FA0CDB91D074EDC004D9"
+        },
+        {
+            "path": "NivelPro_Data/sharedassets0.assets",
+            "hash": "33B8C73A1F1C3B824CC4D44ECCF5F886"
+        },
+        {
+            "path": "NivelPro_Data/sharedassets0.assets.resS",
+            "hash": "ED55CC05B9EEB2A716CE9088A067AAFF"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Assembly-CSharp.dll",
+            "hash": "6F4768C72F08CE6ED0546DDB2D738947"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Coffee.UnmaskForUGUI.dll",
+            "hash": "2F4C2A3CC3C5B7C0CC5A1938250CE748"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Mono.Security.dll",
+            "hash": "D01B669AF495AF0F2F3F2864F61A480D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/mscorlib.dll",
+            "hash": "EBADC03903C523C60F7223172DD247A0"
+        },
+        {
+            "path": "NivelPro_Data/Managed/netstandard.dll",
+            "hash": "C61967EBE7F07F6A5A1B3F91842BBC3C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.ComponentModel.Composition.dll",
+            "hash": "D02087EA471A3529AE604C35E468EC10"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Configuration.dll",
+            "hash": "3A1AF0EED68641002D7C9E61DE5DA9EB"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Core.dll",
+            "hash": "E6B381051605CA4CCF3E80040BD43DE7"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Data.DataSetExtensions.dll",
+            "hash": "1BAC798A8705E2C25B14CF3E56F2ECDE"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Data.dll",
+            "hash": "43CA1E86C0956AA0ADF70FC07561AF91"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.dll",
+            "hash": "7C98EE3305FD1F9B4A329C2C41B5B57F"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Drawing.dll",
+            "hash": "F4027CA1A95B1330D735CA248D2D1BB5"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.EnterpriseServices.dll",
+            "hash": "FAD40C263C4C9616851C1A186D484551"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.IO.Compression.dll",
+            "hash": "B3EBAD7FF05AB78B600B5BAB47232C92"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.IO.Compression.FileSystem.dll",
+            "hash": "0FC0C8CB9EE91BB9684E91F3E8FB7385"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Net.Http.dll",
+            "hash": "FF5A68AC3108E5907A031E59D62D1BD5"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Numerics.dll",
+            "hash": "9DB61577529C48257E04905B1D23E8C0"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Runtime.dll",
+            "hash": "77D74ADCDEA84D53A1FBE89E79737C1E"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Runtime.Serialization.dll",
+            "hash": "2F69D1D27FB9BA028DF2C1A8335D71F9"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Security.dll",
+            "hash": "416717AD1E908F727AD8E14C9B8455FD"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.ServiceModel.Internals.dll",
+            "hash": "AA80B559C72F39FE1B9D4AA619A60AF7"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Transactions.dll",
+            "hash": "A571A28209C7FF50D1AA07B9C8C42530"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Xml.dll",
+            "hash": "0A2661F7BBC2BB4A87B17DDE9C62600C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/System.Xml.Linq.dll",
+            "hash": "1EB7596B466AD7D1EDCC28D12ACCB3C1"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.2D.Animation.Runtime.dll",
+            "hash": "CF27B77B3225B717F5F4D3297907FF47"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.2D.Common.Runtime.dll",
+            "hash": "8B73C793FE8C9FFB2B7DBF7A836C8237"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.2D.IK.Runtime.dll",
+            "hash": "B29CFD9C9983C75F0C85365D59283F23"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.2D.PixelPerfect.dll",
+            "hash": "34D8C4F472866B97C7BFC1CDFA9AC3EF"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.2D.SpriteShape.Runtime.dll",
+            "hash": "39DF84010693D408D7E28867BA1B3AA2"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.2D.Tilemap.Extras.dll",
+            "hash": "80F2050D96015AEC15C561EF157F1B19"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Burst.dll",
+            "hash": "8FA42F7DE2968FDE118EC163EC8DAFCB"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Burst.Unsafe.dll",
+            "hash": "129351E9879A83262EA92A4A45AACC46"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Collections.dll",
+            "hash": "8E928EB420C4E2E65CA1FAC7DFEB69B9"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll",
+            "hash": "6988E30BD4D788C70D564EE21C52AB1A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.InputSystem.dll",
+            "hash": "27CC054ECD286BF5CD41B8FD0752DCF0"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.InputSystem.ForUI.dll",
+            "hash": "D9B4A65EB9CEA51E67202BD61FEFAE02"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.InternalAPIEngineBridge.001.dll",
+            "hash": "85BF3C691993C1BF06CD8E6657279EA9"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Mathematics.dll",
+            "hash": "9AE03D625CF0AC11C1E4DF2172D77B7D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Multiplayer.Center.Common.dll",
+            "hash": "152FD3B12120AE7C196FF3D3DC6D4F21"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll",
+            "hash": "544499AF062FB0C00AB50271052D9B87"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+            "hash": "EA0CA8128EA69D427203E97F9ECA3997"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+            "hash": "E52446C7A13244C6EB10C98F6F548ADF"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+            "hash": "1AEEFE3B240853B313120A47D2278243"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+            "hash": "CA7C2674516C79A360710442456609FD"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+            "hash": "4AF77E29E4BF787736204C96A1204F45"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+            "hash": "874E11B0ED9AF777FAC65AEBB9610E45"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll",
+            "hash": "A45F570E2F9DF6637FCD9FAE33DEF09A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll",
+            "hash": "B97FC9BFF32F4E3A95152CD3CA7019B1"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+            "hash": "882C2B5C610B318189D56D318C8B17BA"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll",
+            "hash": "6FAAE2B53F63B7BD1BE9FECCDFBED51D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.TextMeshPro.dll",
+            "hash": "6BBA1E1387CBE7F03A0CCCD6A46F8CD3"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.Timeline.dll",
+            "hash": "0BB3DA9DB2104CF7F750617E4A29830C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+            "hash": "62A6EF88AC683A13104417515323896B"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.VisualScripting.Core.dll",
+            "hash": "F669FE763C4FE261B5E591557326A2ED"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.VisualScripting.Flow.dll",
+            "hash": "390E057ADBC770A1A07BCE1D3371A54C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/Unity.VisualScripting.State.dll",
+            "hash": "DF1DEA0A1118E6253FD9AD58733B1D54"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AccessibilityModule.dll",
+            "hash": "E0EBF35AD6C3A69D2857E31B5B32B99E"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AIModule.dll",
+            "hash": "EC92E18CF81454DA0DE55D638701622F"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AMDModule.dll",
+            "hash": "16B44AE80C9C167C66739004ACAD6D0A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+            "hash": "C9DCDC457942E21551CD83C3756F5DA8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AnimationModule.dll",
+            "hash": "97D663E5E66AE04A591E30B737083A2D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ARModule.dll",
+            "hash": "32A88B9F86E448A42E02F251FB8384F4"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AssetBundleModule.dll",
+            "hash": "588CE1367B4FD0A1BAF82F4A399CA7AE"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.AudioModule.dll",
+            "hash": "DE7C172330D9CC84EA6808BF74F0E62B"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ClothModule.dll",
+            "hash": "08DAB9F986C613471B35EDE6D465933F"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ClusterInputModule.dll",
+            "hash": "E5772B5F754714738F2A481C84B2A494"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+            "hash": "7EEFAE21DE29456FC14571AF7C018A11"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ContentLoadModule.dll",
+            "hash": "2A199523670D9A653035DC7A191EECF2"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.CoreModule.dll",
+            "hash": "AE7CDC5A3CE3CDDC42CD4B850A5C20A9"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.CrashReportingModule.dll",
+            "hash": "90A476F279606A815591DCB920781FAA"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.DirectorModule.dll",
+            "hash": "C5138C0979C53BF3EFF2905A768E41F8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.dll",
+            "hash": "F1C7AF49B4D7FCE85810540BC7A0C62E"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.DSPGraphModule.dll",
+            "hash": "0285EFD3657C832809360B7AB49F205C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.GameCenterModule.dll",
+            "hash": "67106963D487D93807EC0CF54672EEA8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.GIModule.dll",
+            "hash": "945F679586354A31F47EEA9E6563C75C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll",
+            "hash": "FC833A0B33E0DCFF9442EEE471451E7A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.GridModule.dll",
+            "hash": "7538D93E77A0C5FFEF84277B2676C8CE"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.HierarchyCoreModule.dll",
+            "hash": "D8B1A0326D15ED7D1C4BB2BA05F9DA61"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.HotReloadModule.dll",
+            "hash": "A187BD78BB9ADB4FAAB4FC7DB8EA5D7C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ImageConversionModule.dll",
+            "hash": "7B8E9FB744183660B408E8DE23DD7D9B"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.IMGUIModule.dll",
+            "hash": "F6B0334DA03B459A88E8BF5FD24E3747"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.InputForUIModule.dll",
+            "hash": "5F00F2DB69B39BC8D3BDD530EE11E696"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.InputLegacyModule.dll",
+            "hash": "9DAB129BC138DC6B3304E81A7F33311A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.InputModule.dll",
+            "hash": "09D1A1D700675C268650EB576BBCCA82"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+            "hash": "DE43678D1F7C7D15140ABFA8A467E41C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.LocalizationModule.dll",
+            "hash": "6D2605BE7BDBA65BE76242A75CB26346"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.MarshallingModule.dll",
+            "hash": "7FCEFE2A02BCE2FB81A81465F0B044E8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.MultiplayerModule.dll",
+            "hash": "CAD910842084E845E35A14EDC98280A8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.NVIDIAModule.dll",
+            "hash": "C6BD214C589E4B6D85F1304B6DE09952"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+            "hash": "FABB46718CB793659D467C72C223CF0D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+            "hash": "35BE87A8A22364F1311420DFDC71A580"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.Physics2DModule.dll",
+            "hash": "AF6CDE4546CD9F6FFA1385ECFCCD2574"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.PhysicsModule.dll",
+            "hash": "9451C84894C0184574EA3985C1C0AC61"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.PropertiesModule.dll",
+            "hash": "9B278A26E8FED12F206C9837658BF5DD"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+            "hash": "E24980722D3B58E20032BC7B7B9387C6"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+            "hash": "61859CD1C792D5A37255F43EEB85B956"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll",
+            "hash": "261078B29309E7C2A9F88C38693E439F"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+            "hash": "50E2E37337B787EAA5FFC1B1B559A5A5"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+            "hash": "0CB6D025BEF97C24EF1552DC7734C457"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+            "hash": "C66140233B1608B8A2CE5142CC60D66D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.StreamingModule.dll",
+            "hash": "56260C8257394E396EC388A56CEA4B6C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.SubstanceModule.dll",
+            "hash": "847E09F720D06B8899FB753ED4E6175D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.SubsystemsModule.dll",
+            "hash": "01942AC1EB8345348005528099B282BA"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TerrainModule.dll",
+            "hash": "A9ACD6E4121E25EEFFC909EE93BC1979"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+            "hash": "2C65537EA4CC81CA25AF1270819401B4"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+            "hash": "AA6780FA8B339594923389103DE6B60A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+            "hash": "DE8B39222FD35F27324FAF4E257F1BF4"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TextRenderingModule.dll",
+            "hash": "11560F52D02A406C77D242D0AC6A854F"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TilemapModule.dll",
+            "hash": "7B04DF405707044D1804750271140C7A"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.TLSModule.dll",
+            "hash": "D1539D6CD3D876FDC5A1B39C39A864F9"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UI.dll",
+            "hash": "65EF756F2437D7D55A40C2640E8B07B3"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UIElementsModule.dll",
+            "hash": "F3CE6D85D26E5B314204AE2BA2D5A6AC"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UIModule.dll",
+            "hash": "36A43187439FE453A982AE9D365A9333"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UmbraModule.dll",
+            "hash": "6AA4793F6E4FB81FA8D06162347F05F8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+            "hash": "E786FB0E709E9A2A873CB6CC90174B67"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+            "hash": "59DCD8421F59151079DCD471305DD104"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityConnectModule.dll",
+            "hash": "8308F664A737C2308F4CEED072845E0B"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityCurlModule.dll",
+            "hash": "245C69B97521E72EC8ECA78FD17164D8"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+            "hash": "82FB760F2BDEE6ECE764FECE66EFB86E"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+            "hash": "9646CBBAD00E4D0E91B22BD9FDB25968"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+            "hash": "001E360F7BC7D30DCA0631017FF66C3E"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+            "hash": "268A0184F8F5ACA3E7A4C866D4A01403"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+            "hash": "04A264E366451AA44781B2201FCD91F1"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+            "hash": "4D300A72456C63742A209B1A898EAFDF"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.VehiclesModule.dll",
+            "hash": "636DFF1204676974A22D83BB3494FD1E"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.VFXModule.dll",
+            "hash": "302398727B8D899B4EC32F72A2DB460B"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.VideoModule.dll",
+            "hash": "DDA99EEE46865CFAF8BE6E112158B044"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+            "hash": "8A7D42C355A013FA438E6451B5FC265D"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.VRModule.dll",
+            "hash": "BFBBCA9D61EA77CF0DA91831E1932609"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.WindModule.dll",
+            "hash": "D337D77B0DF188A0690BF81E64D27E5C"
+        },
+        {
+            "path": "NivelPro_Data/Managed/UnityEngine.XRModule.dll",
+            "hash": "3F03621200E5935880065C5F9B55158B"
+        },
+        {
+            "path": "NivelPro_Data/Plugins/x86_64/lib_burst_generated.dll",
+            "hash": "A54C272F690E88401989BD9108BC74AE"
+        },
+        {
+            "path": "NivelPro_Data/Resources/unity default resources",
+            "hash": "861060BA1C64E70FA79DFE7FF6957811"
+        },
+        {
+            "path": "NivelPro_Data/Resources/unity_builtin_extra",
+            "hash": "035CDC3A174348E60FBDC6885510C844"
+        },
+        {
+            "path": "NivelPro_Data/StreamingAssets/cards.csv",
+            "hash": "A2EF6C581461C02007C2E49EFA5BA7A4"
+        },
+        {
+            "path": "NivelPro_Data/StreamingAssets/leadercards.csv",
+            "hash": "D030DF035663B10E29FF394AA4A7595D"
+        },
+        {
+            "path": "NivelPro_Data/StreamingAssets/nn.py",
+            "hash": "47530B751BD0653739CD2EB57842DECC"
+        }
+    ]
+}
